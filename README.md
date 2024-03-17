@@ -5,6 +5,7 @@ In the first part of the project, we are using MODL framework to train a model t
 Aggarwal, H. K., Mani, M. P., & Jacob, M. (2018). MoDL: Model-based deep learning architecture for inverse problems. IEEE transactions on medical imaging, 38(2), 394-405.
 
 Part One Diagram 
-![Training Diagram](./Training Process.drawio.png)
+
+![Training Diagram](Training Process.drawio.png)
 
 In the second part of the project, we will train a GAN model to generate segmented images. 
