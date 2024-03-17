@@ -6,6 +6,6 @@ Aggarwal, H. K., Mani, M. P., & Jacob, M. (2018). MoDL: Model-based deep learnin
 
 Part One Diagram 
 
-![Training Diagram](Training Process.drawio.png)
+![Training Diagram](/Training Process.drawio.png)
 
 In the second part of the project, we will train a GAN model to generate segmented images. 
