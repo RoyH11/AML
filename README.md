@@ -8,6 +8,8 @@ Part One Diagram
 
 ![Training Process drawio](https://github.com/RoyH11/AML/blob/main/Training%20Process.drawio.png)
 
+[link to our own modl](https://github.com/RoyH11/my_modl)
+
 
 
 In the second part of the project, we will train a GAN model to generate segmented images. 
