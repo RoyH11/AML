@@ -42,7 +42,7 @@ class TrainDataset(Dataset):
         # get every slice combined with every coil
         for i in range(num_slices):
           combined_image = np.zeros_like(mri_data[0, 0])
-          combined_image = combined_image.astype(np.float64)
+          combined_image = combined_image.astype(np.float32)
 
           
           for j in range(num_coils):
